@@ -17,6 +17,7 @@ agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, li
 headers = {
     'Host': 'www.zhihu.com',
     'Origin': 'https://www.zhihu.com',
+    'Referer': 'https://www.zhihu.com',
     'User-Agent': agent,
     'X-Requested-With': 'XMLHttpRequest',
     'X-Xsrftoken': ''
