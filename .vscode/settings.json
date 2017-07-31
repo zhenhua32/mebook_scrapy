@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "html.format.wrapLineLength": 70,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "python.formatting.provider": "yapf"
+}
